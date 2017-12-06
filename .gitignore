@@ -1,4 +1,4 @@
 node_modules/
-.env
 out.zip
 yarn.lock
+.env
