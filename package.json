@@ -4,6 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@types/es6-promise": "^0.0.33",
+    "@types/node": "^8.0.56",
+    "@types/request-promise-native": "^1.0.10",
     "dotenv": "^4.0.0",
     "lastfmapi": "^0.1.1",
     "request": "^2.83.0",
