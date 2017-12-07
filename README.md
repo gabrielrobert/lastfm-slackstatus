@@ -1,7 +1,7 @@
 # lastfm-slackstatus
 
 
-This tool allows you to take the last song in [Last.fm](last.fm) and insert it automatically into the [Slack](slack.com) status. Yes yes, as in the good old days of MSN Messenger.
+This tool allows you to take the last song in [Last.fm](http://last.fm) and insert it automatically into the [Slack](http://slack.com) status. Yes yes, as in the good old days of MSN Messenger.
 
 ## Installation
 
